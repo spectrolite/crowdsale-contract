@@ -91,6 +91,7 @@ $ truffle-flattener contracts/PolicyPalNetworkCrowdsale.sol > PolicyPalNetworkCr
 `````````````````
 
 (3) Copy contents to contract source in etherscan
+
 (4) Get Contract ABI from [Ethereum Contract ABI Converter]
 
 [ChainSecurity]: <https://chainsecurity.com>
